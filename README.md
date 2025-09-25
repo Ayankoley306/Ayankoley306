@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Ayan 👋
 
-<!--
-**Ayankoley306/Ayankoley306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+- 🎓 I'm a student passionate about **Web Development** and **Data Structures & Algorithms**
+- 🌱 Currently learning **C, C++, JavaScript, and React**
+- 💡 I enjoy building projects and solving coding challenges
+- 🎯 Goal: Become a **Full-Stack Web Developer**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+- **Languages:** C, C++, JavaScript, HTML, CSS
+- **Frameworks & Libraries:** React, Node.js (soon)
+- **Databases:** MongoDB, SQL (learning)
+- **Tools:** Git, GitHub, VS Code, Postman
+
+---
+
+## 📊 GitHub Stats
+
+![Ayan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ayankoley306&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayankoley306&layout=compact&theme=tokyonight)
+
+---
+
+⭐️ From [Ayankoley306](https://github.com/Ayankoley306)
