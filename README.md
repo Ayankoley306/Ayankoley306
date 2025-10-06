@@ -2,7 +2,7 @@
 
 <!-- Typing Animation -->
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00C4FF&center=true&vCenter=true&width=800&lines=Frontend+Web+Developer;HTML+%7C+CSS+%7C+JAVASCRIPT+%7C+REACT+%7C+TAILWINDCSS;Always+Learning+New+Things!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00C4FF&center=true&vCenter=true&width=800&lines=Frontend+Web+Developer;HTML+%7C+CSS+%7C+JAVASCRIPT;REACT+%7C+REDUX+%7C+TAILWINDCSS;Always+Learning+New+Things!)
 
 ## 🚀 About Me
 
