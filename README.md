@@ -82,7 +82,7 @@
 </div>
 
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=188df9&section=footer" width="100%">
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=f75c7e&section=footer" width="100%">
 
 <sub>✨ Crafted with passion by Ayan koley | © 2025 All rights reserved ✨</sub>
 
