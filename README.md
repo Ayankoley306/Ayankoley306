@@ -53,6 +53,6 @@
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=188df9&section=footer" width="100%">
 
-<sub>✨ Crafted with passion by Ankit Haldar | © 2025 All rights reserved ✨</sub>
+<sub>✨ Crafted with passion by Ayan koley | © 2025 All rights reserved ✨</sub>
 
 </div>
