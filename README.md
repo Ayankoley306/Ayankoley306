@@ -42,28 +42,35 @@
 ### Projects
 
 <div >
-  <a href="https://github.com/Ayankoley306/Projects"><img alt="Ayankoley306's Project reopsitorie" src="https://github-readme-stats.vercel.app/api/pin/?username=Ayankoley306&repo=projects&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" height="192px" width="378px"/></a>
+
+<a href="https://github.com/Ayankoley306/Projects"><img alt="Ayankoley306's Project reopsitorie" src="https://github-readme-stats.vercel.app/api/pin/?username=Ayankoley306&repo=projects&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" height="192px" width="378px"/></a>
+
 </div>
 
 <!-- github statistics -->
 <details> 
   <summary><h2>📊 GitHub Statistics</h2></summary>
   <h3>🔥 Streak Stats</h3>
-  <p>
+  <p align="center">
     <a href="https://github.com/Ayankoley306">
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ayankoley's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=Ayankoley306&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
     </a>
   </p>
   <h3>💻 GitHub Profile Stats</h3>
-  <a href="https://github.com/Ayankoley306"><img alt="Ayankoley306's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ayankoley&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-<a href="https://github.com/Ayankoley306"><img alt="Ayankoley306's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayankoley306&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  <div align="center"> 
+  <a href="https://github.com/Ayankoley306"><img alt="Ayankoley306's Github Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ayankoley306&show_icons=true&include_all_commits=true&count_private=true&theme=radical" height="192px"/></a>
+  </div>
+<div align="center">
+  <a href="https://github.com/Ayankoley306"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ayankoley306&theme=radical" alt="Repos per Language"/></a>
+  <a href="https://github.com/Ayankoley306"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ayankoley306&theme=radical" alt="Most Commit Language"/></a>
+</div>
 <br/>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Ayankoley306&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Ayan koley's contribution graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Ayankoley306&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 </details>
 
 <!-- leetcose staticts -->
-<details>s
+<details>
   <summary><h2>💻 LeetCode Statistics</h2></summary>
   <h3>🚩 Problem solved</h3>
   <div align="center">
