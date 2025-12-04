@@ -41,9 +41,9 @@
 
 ### Projects
 
-<div >
+<div align="center">
 
-<a href="https://github.com/Ayankoley306/Projects"><img alt="Ayankoley306's Project reopsitorie" src="https://github-readme-stats.vercel.app/api/pin/?username=Ayankoley306&repo=projects&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" height="192px" width="378px"/></a>
+<a href="https://github.com/Ayankoley306/Projects"><img alt="Ayankoley306's Project reopsitorie" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Ayankoley306&repo=Projects&&theme=radical&show_owner=true&hide_border=true" height="192px" width="378px"/></a>
 
 </div>
 
