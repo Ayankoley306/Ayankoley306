@@ -59,10 +59,8 @@
   <h3>💻 GitHub Profile Stats</h3>
   <div align="center"> 
   <a href="https://github.com/Ayankoley306"><img alt="Ayankoley306's Github Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ayankoley306&show_icons=true&include_all_commits=true&count_private=true&theme=radical" height="192px"/></a>
-  </div>
-<div align="center">
-  <a href="https://github.com/Ayankoley306"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ayankoley306&theme=radical" alt="Repos per Language"/></a>
-  <a href="https://github.com/Ayankoley306"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ayankoley306&theme=radical" alt="Most Commit Language"/></a>
+  <a href="https://github.com/Ayankoley306"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ayankoley306&theme=radical" alt="Repos per Language" height="192px"/></a>
+  <a href="https://github.com/Ayankoley306"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ayankoley306&theme=radical" alt="Most Commit Language" height="192px"/></a>
 </div>
 <br/>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
